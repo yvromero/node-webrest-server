@@ -8,3 +8,9 @@
 ```
 openssl req -x509 -sha256 -nodes -days 365 -newkey rsa:2048 -keyout server.key -out server.crt
 ```
+
+### Deployment URL on RAILWAY
+
+```
+node-webrest-server-production-67e0.up.railway.app
+```
